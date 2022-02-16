@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Vue 3 with Vite
 - 🙌 I'm experienced in Vue 2, Vuex, Vue Router, Vue CLI, Bootstrap Vue, Ag Grid, Node.js etc
 - 💞️ I’m looking to collaborate on Vue related frameworks
-- 📫 Rreach me via magaleh860@gmail.com
+- 📫 Reach me via magaleh860@gmail.com
 
 <!---
 magaleh860/magaleh860 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
