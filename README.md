@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @magaleh860
-- 👀 I’m interested in Vue, Typescript/Javascript, Node.js and Cars... I love cars... No it is not a library name, I mean actual cars, #gearhead
-- 🌱 I’m currently developing applicatons using Vue 3
-- 🙌 I'm experienced in Vue 2, Vue 3, Bootstrap Vue, Ag Grid, Node.js, Azure Microservices etc
-- 💞️ I’m looking to collaborate on Vue related frameworks
-- 📫 Reach me via magaleh860@gmail.com
+- 👋 Hi, I’m @magaleh860 (Mohammed)
+- 👀 I’m interested in Vue, TypeScript/JavaScript, Node.js, and cars (actual cars, not a library – #gearhead 😄)
+- 🌱 I’m currently building applications with Vue 3
+- 🙌 Experienced with Vue 2 & 3, BootstrapVue, AG Grid, Node.js, Nest.js, .NET, Microsoft Azure, and many more!
+- 💬 I’m open to collaborating on Vue-related projects and libraries
+- 📫 Reach me at: magaleh860@gmail.com
 
 <!---
 magaleh860/magaleh860 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
