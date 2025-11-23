@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @magaleh860 (Mohammed)
-- 👀 I’m interested in Vue, TypeScript/JavaScript, Node.js, and cars (actual cars, not a library – #gearhead 😄)
-- 🌱 I’m currently building applications with Vue 3
+- 👀 I’m interested in Vue, React, TypeScript/JavaScript, Node.js, and cars (actual cars, not a library – #gearhead 😄)
+- 🌱 I’m currently building applications with Vue 3 and React
 - 🙌 Experienced with Vue 2 & 3, BootstrapVue, AG Grid, Node.js, Nest.js, .NET, Microsoft Azure, and many more!
 - 💬 I’m open to collaborating on Vue-related projects and libraries
 - 📫 Reach me at: magaleh860@gmail.com
